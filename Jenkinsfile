@@ -19,7 +19,7 @@ pipeline {
         }
         stage('Move') {
             steps {
-                sh 'cp web/index.html /var/www/bridzius.lt/html/index.html'
+                sh 'cp -f web/index.html /var/www/bridzius.lt/html/index.html'
             }
         }
     }
