@@ -1,0 +1,25 @@
+{
+  "name": "bridzius.lt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bridzius/bridzius.lt.git"
+  },
+  "scripts": {
+    "start": "blankpage website.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bridzius/bridzius.lt/issues"
+  },
+  "homepage": "https://github.com/bridzius/bridzius.lt#readme",
+  "dependencies": {
+    "blankpage": "^1.2.1"
+  }
+}
