@@ -1,0 +1,1 @@
+Working on <a href="https://www.npmjs.com/package/blankpage">blankpage</a> has been totally refreshing. Nothing cheers you up as much as starting to work from scratch.
