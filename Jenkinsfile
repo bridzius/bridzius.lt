@@ -22,8 +22,8 @@ pipeline {
                 sh 'cp -f web/index.html /var/www/bridzius.lt/html/index.html'
             }
         }
-        post {
-          always {
+        stage('Cleanup') {
+          steps {
             deleteDir()
           }
         }
