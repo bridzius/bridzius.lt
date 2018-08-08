@@ -1,0 +1,1 @@
+Once you get semi-used to vim - everything starts to feel very new. Also - if you're a Macbook (Pro 16+) user - not rebinding your CapsLk to Esc - mortal sin.
