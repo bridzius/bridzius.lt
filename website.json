@@ -5,5 +5,6 @@
   "inputFormat": "md",
   "output": "web",
   "header": "Bridzius.lt",
-  "subheader": "jurgis@bridzius.lt"
+  "subheader": "jurgis@bridzius.lt",
+  "highlight": "a11y-dark"
 }
