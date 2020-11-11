@@ -1,0 +1,19 @@
+name: Publisher
+
+on: push
+
+jobs:
+  publisher:
+    name: Build and publish blog
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "12.x"
+      - name: Install
+        run: npm install
+      - name: Generate
+        run: npm start
