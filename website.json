@@ -3,7 +3,7 @@
   "input": "posts",
   "inputSort": "git",
   "inputFormat": "md",
-  "output": "docs",
+  "output": "web",
   "header": "Bridzius.lt",
   "subheader": "jurgis@bridzius.lt",
   "highlight": "a11y-dark"
