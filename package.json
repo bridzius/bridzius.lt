@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/bridzius/bridzius.lt#readme",
   "dependencies": {
-    "blankpage": "^2.0.0"
+    "blankpage": "^2.2.0"
   }
 }
